@@ -4,4 +4,7 @@ services:
   server_glassfish:
     container_name: jsf_container
     image: glassfish
-    
+    ports:
+    -8090:4848
+    -8090:8181
+    -8089:8080
