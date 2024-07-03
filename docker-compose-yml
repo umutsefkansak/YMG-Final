@@ -1,0 +1,7 @@
+version: '3.8'
+
+services:
+  server_glassfish:
+    container_name: jsf_container
+    image: glassfish
+    
