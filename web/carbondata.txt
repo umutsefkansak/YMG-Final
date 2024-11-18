@@ -1,0 +1,25 @@
+
+Konularin Genel olarak 
+Ne olduğu
+Ne is yaptigi
+Mimarisi
+Kurulum
+Ornek işlem
+
+
+
+CarbonData, PetaByte'larca veri üzerinde daha hızlı etkileşimli sorgulara olanak tanır.
+
+Çok seviyeli indeksleme, sıkıştırma ve kodlama teknikleri kullanarak performansı artırır. Bu sayede petabaytlarca veri üzerinde hızlı sorgulamalar yapılabilir
+
+CarbonData, yeni bir Apache Hadoop yerel veri deposu biçimidir. CarbonData, gelişmiş sütunlu depolama, dizin, sıkıştırma ve kodlama tekniklerini kullanarak Petabaytlarca veri üzerinde daha hızlı etkileşimli sorgulara olanak tanır ve hesaplama verimliliğini artırır. Ayrıca CarbonData, veri kaynaklarını Spark ile bütünleştiren yüksek performanslı bir analiz motorudur.
+
+SQL: CarbonData, Spark SQL ile uyumludur ve Spark SQL üzerinde gerçekleştirilen SQL sorgu işlemlerini destekler.
+
+Kolay veri yönetimi: CarbonData, veri yükleme ve bakımı için çeşitli veri yönetimi işlevleri sunar. CarbonData, geçmiş verilerin toplu olarak yüklenmesini ve yeni verilerin artımlı olarak yüklenmesini destekler. Yüklenen veriler, yükleme süresine göre silinebilir ve belirli bir yükleme işlemi geri alınabilir.
+
+
+
+
+slayt
+https://www.slideshare.net/slideshow/apache-carbondata-an-indexed-columnar-file-format-for-interactive-query-with-spark-sql-spark-summit-east-talk-by-jacky-li-and-jihong-ma/72149953#1
